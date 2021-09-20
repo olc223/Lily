@@ -21,8 +21,11 @@ body {
 /* images and videos max out at full width */
 img,
 video {
-  height: auto;
-  max-width: 100%;
+  margin: 20%;
+  display: block;
+  margin-left: auto;
+  margin right: auto;
+  width:50%;
 }
 h1 {
   color: Pink;
