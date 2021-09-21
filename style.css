@@ -3,7 +3,7 @@
 /* default to border-box */
 html {
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 50px;
 }
 
 *, *:before, *:after {
@@ -31,5 +31,5 @@ h1 {
   color: Pink;
   font-family: Courier;
   font-size: 300%;
-  margin: 20%;
+  margin: 30%;
 }
