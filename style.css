@@ -3,7 +3,7 @@
 /* default to border-box */
 html {
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 *, *:before, *:after {
