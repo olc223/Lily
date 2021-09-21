@@ -32,17 +32,17 @@ video {
 h1 {
   color: Pink;
   font-family: Courier;
-  font-size: 300%;
+  font-size: 500%;
   margin-left: 20%;
   margin right: 50%;
 }
 h2 {
   color: black;
   font-family: Courier;
-  font-size: 200%;
+  font-size: 400%;
 }
 p{
   color: black;
   font-family: Courier;
-  font-size: 100%;
+  font-size: 300%;
 }
