@@ -26,8 +26,6 @@ video {
   margin right: auto;
   width:50%;
   
-  float: up;
-  width: 
 
 }
 
@@ -37,6 +35,6 @@ video {
 h1 {
   color: Pink;
   font-family: Courier;
-  font-size: 400%;
-  margin: 20%;
+  font-size: 300%;
+  margin: 10%;
 }
